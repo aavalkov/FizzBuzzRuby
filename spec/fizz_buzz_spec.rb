@@ -9,4 +9,7 @@ describe("fizz_buzz") do
   it("changes 5 to 'buzz'") do
     fizz_buzz(5).should(eq("buzz"))
   end
+  it("changes 15 to fizzbuzz") do
+    fizz_buzz(15).should(eq("fizzbuzz"))
+  end
 end
