@@ -4,6 +4,9 @@ def fizz_buzz(number)
     number = "fizz"
     puts "fizz"
     "fizz"
-    end
+  elsif number % 5 == 0
+    number = "buzz"
+    "buzz"
+  end
 end
 fizz_buzz(number)
