@@ -1,0 +1,1 @@
+This programs allows user to input  number. It will print numbers starting from 0 and ending at that number. For numbers divisible by 3 it will enter "fizz". For numbers divisible by 5 it will enter "buzz". For numbers divisible by 3 and 5 it will enter "fizbuzz"
